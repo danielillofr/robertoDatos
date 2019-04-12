@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "mongoose": "^5.4.20",
     "mssql": "^5.0.3"
   }
 }
